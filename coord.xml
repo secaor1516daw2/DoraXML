@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coords>
+  <coord>
+    <x>1</x>
+    <y>1</y>
+    <estado>0</estado>
+  </coord>
+  <coord>
+    <x>1</x>
+    <y>2</y>
+    <estado>0</estado>
+  </coord>
+  <coord>
+    <x>0</x>
+    <y>7</y>
+    <estado>0</estado>
+  </coord>
+  <coord>
+    <x>1</x>
+    <y>0</y>
+    <estado>0</estado>
+  </coord>
+  <coord>
+    <x>2</x>
+    <y>1</y>
+    <estado>0</estado>
+  </coord>
+</coords>
